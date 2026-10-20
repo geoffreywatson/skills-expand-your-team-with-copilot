@@ -131,6 +131,16 @@ initial_activities = {
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "amelia@mergington.edu"]
     },
+    "Manga Maniacs": {
+        "description": "Dive into epic quests, unforgettable heroes, and surprising twists as we explore the vibrant worlds of Japanese manga.",
+        "schedule": "Tuesdays, 5:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "17:00"
+        },
+        "max_participants": 25,
+        "participants": []
+    },
     "Weekend Robotics Workshop": {
         "description": "Build and program robots in our state-of-the-art workshop",
         "schedule": "Saturdays, 10:00 AM - 2:00 PM",
